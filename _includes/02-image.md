@@ -1,1 +1,1 @@
-https://i1.sndcdn.com/artworks-000468082668-gyxl58-t500x500.jpg
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
