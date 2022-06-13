@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. the room
+2. pizza
+3. stairs
